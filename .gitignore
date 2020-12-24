@@ -49,14 +49,12 @@ Tools/
 FloorTile/Editor/XUPorter.meta
 FloorTile/StreamingAssets.meta
 
-FloorTile/Assets/3rdParty/
-FloorTile/Assets/Creditest/
-FloorTile/Assets/SDKAdapter/
-FloorTile/Assets/Qarth/
-FloorTile/Assets/3rdParty.meta
-FloorTile/Assets/Creditest.meta
-FloorTile/Assets/SDKAdapter.meta
-FloorTile/Assets/Qarth.meta
+FloorTile/Assets/Impact Deformable/
+FloorTile/Assets/Paint in 3D/
+FloorTile/Assets/VertExmotion/
+FloorTile/Assets/Impact Deformable.meta
+FloorTile/Assets/Paint in 3D.meta
+FloorTile/Assets/VertExmotion.meta
 
 FloorTile/Assets/Plugins/Android/animated-vector-*
 FloorTile/Assets/Plugins/Android/cardview-*
